@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "adilhusain shaikh",
 	"description": " my new package",
-	"keywords": ["web", "internet", "http"],
+	"keywords": ["web", "internet", "http", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
